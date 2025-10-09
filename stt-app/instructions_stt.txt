@@ -1,0 +1,4 @@
+For startup. 
+
+uvicorn stt-app.backend.app:app --reload --port 8000
+npm --prefix stt-app/frontend run dev
