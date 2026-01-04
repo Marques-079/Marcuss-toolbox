@@ -1,0 +1,1137 @@
+{
+    "how_does_your_gallery": [
+        {
+            "text": "how",
+            "x": 0.4193308859308583,
+            "y": 0.46
+        },
+        {
+            "text": "does",
+            "x": 0.49292,
+            "y": 0.46
+        },
+        {
+            "text": "your",
+            "x": 0.56726,
+            "y": 0.46
+        },
+        {
+            "text": "gallery",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "remember_and_find_your": [
+        {
+            "text": "remember",
+            "x": 0.46991,
+            "y": 0.46
+        },
+        {
+            "text": "and",
+            "x": 0.56549,
+            "y": 0.46
+        },
+        {
+            "text": "find",
+            "x": 0.46283,
+            "y": 0.38
+        },
+        {
+            "text": "your",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "images_so_fast?": [
+        {
+            "text": "images",
+            "x": 0.47699,
+            "y": 0.46
+        },
+        {
+            "text": "so",
+            "x": 0.55133,
+            "y": 0.46
+        },
+        {
+            "text": "fast?",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "if_you_type_dog,_beach,": [
+        {
+            "text": "if",
+            "x": 0.43274,
+            "y": 0.46
+        },
+        {
+            "text": "you",
+            "x": 0.48584,
+            "y": 0.46
+        },
+        {
+            "text": "type",
+            "x": 0.5531,
+            "y": 0.46
+        },
+        {
+            "text": "dog,",
+            "x": 0.44867,
+            "y": 0.38
+        },
+        {
+            "text": "beach,",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "or_yesterday's_sunset,": [
+        {
+            "text": "or",
+            "x": 0.41327,
+            "y": 0.46
+        },
+        {
+            "text": "yesterday's",
+            "x": 0.52301,
+            "y": 0.46
+        },
+        {
+            "text": "sunset,",
+            "x": 0.47699,
+            "y": 0.38
+        }
+    ],
+    "just_pulls_it_up.": [
+        {
+            "text": "just",
+            "x": 0.43274,
+            "y": 0.46
+        },
+        {
+            "text": "pulls",
+            "x": 0.51416,
+            "y": 0.46
+        },
+        {
+            "text": "it",
+            "x": 0.58142,
+            "y": 0.46
+        },
+        {
+            "text": "up.",
+            "x": 0.46283,
+            "y": 0.38
+        }
+    ],
+    "its not_scanning_every_photo": [
+        {
+            "text": "its not",
+            "x": 0.43451,
+            "y": 0.46
+        },
+        {
+            "text": "scanning",
+            "x": 0.53009,
+            "y": 0.46
+        },
+        {
+            "text": "every",
+            "x": 0.45575,
+            "y": 0.38
+        },
+        {
+            "text": "photo",
+            "x": 0.54425,
+            "y": 0.38
+        }
+    ],
+    "pixel_by_pixel,_that_would be": [
+        {
+            "text": "pixel",
+            "x": 0.47699,
+            "y": 0.46
+        },
+        {
+            "text": "by",
+            "x": 0.54425,
+            "y": 0.46
+        },
+        {
+            "text": "pixel,",
+            "x": 0.43274,
+            "y": 0.38
+        },
+        {
+            "text": "that",
+            "x": 0.50708,
+            "y": 0.38
+        },
+        {
+            "text": "would be",
+            "x": 0.57434,
+            "y": 0.38
+        }
+    ],
+    "way": [
+        {
+            "text": "way",
+            "x": 0.49292,
+            "y": 0.46
+        }
+    ],
+    "the trick_is,_it": [
+        {
+            "text": "the trick",
+            "x": 0.4469,
+            "y": 0.46
+        },
+        {
+            "text": "is,",
+            "x": 0.52124,
+            "y": 0.46
+        },
+        {
+            "text": "it",
+            "x": 0.57434,
+            "y": 0.46
+        }
+    ],
+    "preprocesses_your_images": [
+        {
+            "text": "preprocesses",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "your",
+            "x": 0.44867,
+            "y": 0.38
+        },
+        {
+            "text": "images",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "ahead": [
+        {
+            "text": "ahead",
+            "x": 0.43274,
+            "y": 0.46
+        }
+    ],
+    "step_one": [
+        {
+            "text": "step",
+            "x": 0.46283,
+            "y": 0.38
+        },
+        {
+            "text": "one",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "it": [
+        {
+            "text": "it",
+            "x": 0.55841,
+            "y": 0.38
+        }
+    ],
+    "a_through_computer_vision": [
+        {
+            "text": "a",
+            "x": 0.55841,
+            "y": 0.46
+        },
+        {
+            "text": "through",
+            "x": 0.48407,
+            "y": 0.46
+        },
+        {
+            "text": "computer",
+            "x": 0.44867,
+            "y": 0.38
+        },
+        {
+            "text": "vision",
+            "x": 0.56549,
+            "y": 0.38
+        }
+    ],
+    "model.": [
+        {
+            "text": "model.",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "basically_a_neural network": [
+        {
+            "text": "basically",
+            "x": 0.48407,
+            "y": 0.46
+        },
+        {
+            "text": "a",
+            "x": 0.57257,
+            "y": 0.46
+        },
+        {
+            "text": "neural network",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "trained_to": [
+        {
+            "text": "trained",
+            "x": 0.47699,
+            "y": 0.38
+        },
+        {
+            "text": "to",
+            "x": 0.55841,
+            "y": 0.38
+        }
+    ],
+    "recognize": [
+        {
+            "text": "recognize",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "found in_your_images.": [
+        {
+            "text": "found in",
+            "x": 0.46283,
+            "y": 0.46
+        },
+        {
+            "text": "your",
+            "x": 0.52301,
+            "y": 0.46
+        },
+        {
+            "text": "images.",
+            "x": 0.46283,
+            "y": 0.38
+        }
+    ],
+    "this outputs_two_main_things.": [
+        {
+            "text": "this outputs",
+            "x": 0.46991,
+            "y": 0.46
+        },
+        {
+            "text": "two",
+            "x": 0.55841,
+            "y": 0.46
+        },
+        {
+            "text": "main",
+            "x": 0.44159,
+            "y": 0.38
+        },
+        {
+            "text": "things.",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "first": [
+        {
+            "text": "first",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "the_labels._like": [
+        {
+            "text": "the",
+            "x": 0.44159,
+            "y": 0.46
+        },
+        {
+            "text": "labels.",
+            "x": 0.53009,
+            "y": 0.46
+        },
+        {
+            "text": "like",
+            "x": 0.45575,
+            "y": 0.38
+        }
+    ],
+    "dogs": [
+        {
+            "text": "dogs",
+            "x": 0.44159,
+            "y": 0.46
+        }
+    ],
+    "grass,": [
+        {
+            "text": "grass,",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "numbers.": [
+        {
+            "text": "numbers.",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "sometimes_it_also_detects": [
+        {
+            "text": "sometimes",
+            "x": 0.47699,
+            "y": 0.46
+        },
+        {
+            "text": "it",
+            "x": 0.57257,
+            "y": 0.46
+        },
+        {
+            "text": "also",
+            "x": 0.44159,
+            "y": 0.38
+        },
+        {
+            "text": "detects",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "objects_and_faces,": [
+        {
+            "text": "objects",
+            "x": 0.46991,
+            "y": 0.46
+        },
+        {
+            "text": "and",
+            "x": 0.55841,
+            "y": 0.46
+        },
+        {
+            "text": "faces,",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "and_groups_similar_faces": [
+        {
+            "text": "and",
+            "x": 0.44867,
+            "y": 0.46
+        },
+        {
+            "text": "groups",
+            "x": 0.53009,
+            "y": 0.46
+        },
+        {
+            "text": "similar",
+            "x": 0.45575,
+            "y": 0.38
+        },
+        {
+            "text": "faces",
+            "x": 0.55841,
+            "y": 0.38
+        }
+    ],
+    "using_something_called": [
+        {
+            "text": "using",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "something",
+            "x": 0.5,
+            "y": 0.38
+        },
+        {
+            "text": "called",
+            "x": 0.53009,
+            "y": 0.38
+        }
+    ],
+    "face_clustering.": [
+        {
+            "text": "face",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "clustering.",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "that's_how_it_can_show": [
+        {
+            "text": "that's",
+            "x": 0.45398,
+            "y": 0.46
+        },
+        {
+            "text": "how",
+            "x": 0.5354,
+            "y": 0.46
+        },
+        {
+            "text": "it",
+            "x": 0.58142,
+            "y": 0.46
+        },
+        {
+            "text": "can",
+            "x": 0.46283,
+            "y": 0.38
+        },
+        {
+            "text": "show",
+            "x": 0.53009,
+            "y": 0.38
+        }
+    ],
+    "photos_of_this_person,": [
+        {
+            "text": "photos",
+            "x": 0.43982,
+            "y": 0.46
+        },
+        {
+            "text": "of",
+            "x": 0.51416,
+            "y": 0.46
+        },
+        {
+            "text": "this",
+            "x": 0.57434,
+            "y": 0.46
+        },
+        {
+            "text": "person,",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "even_if_you've_never": [
+        {
+            "text": "even",
+            "x": 0.42566,
+            "y": 0.46
+        },
+        {
+            "text": "if",
+            "x": 0.48584,
+            "y": 0.46
+        },
+        {
+            "text": "you've",
+            "x": 0.56018,
+            "y": 0.46
+        },
+        {
+            "text": "never",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "tagged_them_before.": [
+        {
+            "text": "tagged",
+            "x": 0.46283,
+            "y": 0.46
+        },
+        {
+            "text": "them",
+            "x": 0.55133,
+            "y": 0.46
+        },
+        {
+            "text": "before.",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "second": [
+        {
+            "text": "second",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "and_the_most_powerful": [
+        {
+            "text": "and",
+            "x": 0.43274,
+            "y": 0.46
+        },
+        {
+            "text": "the",
+            "x": 0.49292,
+            "y": 0.46
+        },
+        {
+            "text": "most",
+            "x": 0.56018,
+            "y": 0.46
+        },
+        {
+            "text": "powerful",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "part,_it_an_embedding.": [
+        {
+            "text": "part,",
+            "x": 0.47699,
+            "y": 0.46
+        },
+        {
+            "text": "it",
+            "x": 0.54425,
+            "y": 0.46
+        },
+        {
+            "text": "an",
+            "x": 0.55841,
+            "y": 0.38
+        },
+        {
+            "text": "embedding.",
+            "x": 0.47699,
+            "y": 0.46
+        }
+    ],
+    "is_a_list_of": [
+        {
+            "text": "is",
+            "x": 0.5354,
+            "y": 0.46
+        },
+        {
+            "text": "a",
+            "x": 0.57434,
+            "y": 0.46
+        },
+        {
+            "text": "list",
+            "x": 0.47699,
+            "y": 0.38
+        },
+        {
+            "text": "of",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "which_pretty_much": [
+        {
+            "text": "which",
+            "x": 0.55841,
+            "y": 0.46
+        },
+        {
+            "text": "pretty",
+            "x": 0.46283,
+            "y": 0.38
+        },
+        {
+            "text": "much",
+            "x": 0.55133,
+            "y": 0.38
+        }
+    ],
+    "sums_up_the": [
+        {
+            "text": "sums",
+            "x": 0.4469,
+            "y": 0.46
+        },
+        {
+            "text": "up",
+            "x": 0.50708,
+            "y": 0.46
+        },
+        {
+            "text": "the",
+            "x": 0.56018,
+            "y": 0.46
+        }
+    ],
+    "similar": [
+        {
+            "text": "similar",
+            "x": 0.55133,
+            "y": 0.46
+        }
+    ],
+    "end up_close_together_in_the": [
+        {
+            "text": "end up",
+            "x": 0.45575,
+            "y": 0.46
+        },
+        {
+            "text": "close",
+            "x": 0.52301,
+            "y": 0.46
+        },
+        {
+            "text": "together",
+            "x": 0.4469,
+            "y": 0.38
+        },
+        {
+            "text": "in",
+            "x": 0.5354,
+            "y": 0.38
+        },
+        {
+            "text": "the",
+            "x": 0.5885,
+            "y": 0.38
+        }
+    ],
+    "vector_space_even_if": [
+        {
+            "text": "vector",
+            "x": 0.44867,
+            "y": 0.46
+        },
+        {
+            "text": "space",
+            "x": 0.55133,
+            "y": 0.46
+        },
+        {
+            "text": "even",
+            "x": 0.47699,
+            "y": 0.38
+        },
+        {
+            "text": "if",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "they_don't_look_the_same": [
+        {
+            "text": "they",
+            "x": 0.45575,
+            "y": 0.46
+        },
+        {
+            "text": "don't",
+            "x": 0.53717,
+            "y": 0.46
+        },
+        {
+            "text": "look",
+            "x": 0.43274,
+            "y": 0.38
+        },
+        {
+            "text": "the",
+            "x": 0.5,
+            "y": 0.38
+        },
+        {
+            "text": "same",
+            "x": 0.56726,
+            "y": 0.38
+        }
+    ],
+    "pixel_to_pixel._then_the": [
+        {
+            "text": "pixel",
+            "x": 0.47699,
+            "y": 0.46
+        },
+        {
+            "text": "to",
+            "x": 0.54425,
+            "y": 0.46
+        },
+        {
+            "text": "pixel.",
+            "x": 0.43274,
+            "y": 0.38
+        },
+        {
+            "text": "then",
+            "x": 0.52124,
+            "y": 0.38
+        },
+        {
+            "text": "the",
+            "x": 0.5885,
+            "y": 0.38
+        }
+    ],
+    "top_images_get_ranked_by": [
+        {
+            "text": "top",
+            "x": 0.41858,
+            "y": 0.46
+        },
+        {
+            "text": "images",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "get",
+            "x": 0.58142,
+            "y": 0.46
+        },
+        {
+            "text": "ranked",
+            "x": 0.47699,
+            "y": 0.38
+        },
+        {
+            "text": "by",
+            "x": 0.55133,
+            "y": 0.38
+        }
+    ],
+    "time_location_albums": [
+        {
+            "text": "time",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "location",
+            "x": 0.5,
+            "y": 0.38
+        },
+        {
+            "text": "albums",
+            "x": 0.55133,
+            "y": 0.38
+        }
+    ],
+    "and_any_labels_that the": [
+        {
+            "text": "and",
+            "x": 0.42566,
+            "y": 0.46
+        },
+        {
+            "text": "any",
+            "x": 0.48584,
+            "y": 0.46
+        },
+        {
+            "text": "labels",
+            "x": 0.46283,
+            "y": 0.38
+        },
+        {
+            "text": "that the",
+            "x": 0.55133,
+            "y": 0.38
+        }
+    ],
+    "computer_vision_model": [
+        {
+            "text": "computer",
+            "x": 0.51593,
+            "y": 0.46
+        },
+        {
+            "text": "vision",
+            "x": 0.45575,
+            "y": 0.38
+        },
+        {
+            "text": "model",
+            "x": 0.55133,
+            "y": 0.38
+        }
+    ],
+    "found.": [
+        {
+            "text": "found.",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "so_it's_not": [
+        {
+            "text": "so",
+            "x": 0.43274,
+            "y": 0.46
+        },
+        {
+            "text": "it's",
+            "x": 0.49292,
+            "y": 0.46
+        },
+        {
+            "text": "not",
+            "x": 0.56018,
+            "y": 0.46
+        }
+    ],
+    "like_a_human.": [
+        {
+            "text": "like",
+            "x": 0.43274,
+            "y": 0.38
+        },
+        {
+            "text": "a",
+            "x": 0.48584,
+            "y": 0.38
+        },
+        {
+            "text": "human.",
+            "x": 0.5531,
+            "y": 0.38
+        }
+    ],
+    "it's_turning_your_gallery": [
+        {
+            "text": "it's",
+            "x": 0.44159,
+            "y": 0.46
+        },
+        {
+            "text": "turning",
+            "x": 0.53717,
+            "y": 0.46
+        },
+        {
+            "text": "your",
+            "x": 0.44159,
+            "y": 0.38
+        },
+        {
+            "text": "gallery",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "into_a_giant_list_of": [
+        {
+            "text": "into",
+            "x": 0.43982,
+            "y": 0.46
+        },
+        {
+            "text": "a",
+            "x": 0.49292,
+            "y": 0.46
+        },
+        {
+            "text": "giant",
+            "x": 0.5531,
+            "y": 0.46
+        },
+        {
+            "text": "list",
+            "x": 0.47699,
+            "y": 0.38
+        },
+        {
+            "text": "of",
+            "x": 0.53717,
+            "y": 0.38
+        }
+    ],
+    "indexes_and_embeddings,": [
+        {
+            "text": "indexes",
+            "x": 0.46991,
+            "y": 0.46
+        },
+        {
+            "text": "and",
+            "x": 0.55841,
+            "y": 0.46
+        },
+        {
+            "text": "embeddings,",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "and_searching_that.": [
+        {
+            "text": "and",
+            "x": 0.42743,
+            "y": 0.46
+        },
+        {
+            "text": "searching",
+            "x": 0.53009,
+            "y": 0.46
+        },
+        {
+            "text": "that.",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "stay_tuned_for_episode_ii": [
+        {
+            "text": "stay",
+            "x": 0.42566,
+            "y": 0.46
+        },
+        {
+            "text": "tuned",
+            "x": 0.50708,
+            "y": 0.46
+        },
+        {
+            "text": "for",
+            "x": 0.58142,
+            "y": 0.46
+        },
+        {
+            "text": "episode",
+            "x": 0.5,
+            "y": 0.38
+        },
+        {
+            "text": "ii",
+            "x": 0.5,
+            "y": 0.46
+        }
+    ],
+    "too_slow.": [
+        {
+            "text": "too",
+            "x": 0.5531,
+            "y": 0.46
+        },
+        {
+            "text": "slow.",
+            "x": 0.46991,
+            "y": 0.38
+        }
+    ],
+    "of_time.": [
+        {
+            "text": "of",
+            "x": 0.5,
+            "y": 0.46
+        },
+        {
+            "text": "time.",
+            "x": 0.56726,
+            "y": 0.46
+        }
+    ],
+    "runs_your_images": [
+        {
+            "text": "runs",
+            "x": 0.48584,
+            "y": 0.46
+        },
+        {
+            "text": "your",
+            "x": 0.56018,
+            "y": 0.46
+        },
+        {
+            "text": "images",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "patterns": [
+        {
+            "text": "patterns",
+            "x": 0.45575,
+            "y": 0.38
+        }
+    ],
+    "an_embedding": [
+        {
+            "text": "an",
+            "x": 0.57965,
+            "y": 0.46
+        },
+        {
+            "text": "embedding",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "images": [
+        {
+            "text": "images",
+            "x": 0.46991,
+            "y": 0.38
+        }
+    ],
+    "creates": [
+        {
+            "text": "creates",
+            "x": 0.47699,
+            "y": 0.38
+        }
+    ],
+    "other": [
+        {
+            "text": "other",
+            "x": 0.56018,
+            "y": 0.46
+        }
+    ],
+    "vector": [
+        {
+            "text": "vector",
+            "x": 0.46106,
+            "y": 0.46
+        }
+    ],
+    "meaning_of an image": [
+        {
+            "text": "meaning",
+            "x": 0.45398,
+            "y": 0.38
+        },
+        {
+            "text": "of an image",
+            "x": 0.44159,
+            "y": 0.46
+        }
+    ],
+    "remebering": [
+        {
+            "text": "remebering",
+            "x": 0.5,
+            "y": 0.38
+        }
+    ],
+    "numbers": [
+        {
+            "text": "numbers",
+            "x": 0.45575,
+            "y": 0.46
+        }
+    ]
+}
